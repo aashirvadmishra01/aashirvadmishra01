@@ -17,7 +17,7 @@
 ---
 
 ## 📬 How to reach me
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/aashirvad-mishra
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/aashirvad-mishra-613600434/
 - 🧪 **Kaggle:** https://www.kaggle.com/aashirvadmishra
 
 ---
