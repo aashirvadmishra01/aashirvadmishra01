@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me
 - 🎓 **University:** B.Tech Student at **VIT Bhopal University**
 - 🤖 **Branch:** Computer Science and Engineering (AI and Machine Learning)
-- 🚀 **Current Focus:** Python for AI/ML and exploring Digital Literacy
+- 🚀 **Current Focus:** learning AI and ML  and exploring DSA and Web Development
 - 🎯 **Goal:** To build intelligent software and grow as an AI/ML developer
 - 📍 **Location:** Bhopal, India
 
